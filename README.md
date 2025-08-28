@@ -31,3 +31,9 @@ HTML5: The markup language for the web page structure.
 CSS3: For styling and presentation, ensuring a clean and user-friendly interface.
 
 JavaScript (ES6+): Handles the API calls and dynamic updates to the user interface.
+<img width="990" height="742" alt="image" src="https://github.com/user-attachments/assets/650b3eae-d304-4c29-8ecf-59fedad5aa24" />
+<img width="989" height="743" alt="image" src="https://github.com/user-attachments/assets/d1fed73a-2cca-4fd8-a411-6ae609bdcefc" />
+
+
+https://github.com/user-attachments/assets/2d8a659a-f917-47c8-90af-dea4efa29e8a
+
